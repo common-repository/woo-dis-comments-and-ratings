@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .zamartz-wrapper .woo-disqus-custom-css-indentifier, .woo-disqus-manual-post-identifier {
+     display: none;
+ }
+ .zamartz-wrapper .woo-disqus-meta-select2 .select2-container {
+    width: 200px;
+ }
+ .zamartz-wrapper .woo-disqus-auto-assign-dashicon {
+    margin: 2px 5px;
+    cursor: pointer;
+   }
+.zamartz-wrapper .additional-content {
+   position: initial;
+   margin-left: 10px;
+}
